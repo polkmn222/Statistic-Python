@@ -1,0 +1,128 @@
+1. 빅데이터 정의 ::
+3V -> (Volume), (Variety), (Velocity) - input
+4V -> (Value) - output
+
+2. 빅데이터로의 출현 및 배경
+1) 기업계 - 고객데이터를 축적
+2) 학계 - 새로운 알고리즘
+3) 디바이스의 발전 - 디지털화
+
+빅데이터의 3가지 구성요소 -  	(1) IT - python 및 R
+				(2) 수학 // 통계
+				(3) Domain Knowledge :: 관심사
+
+3. 빅데이터로의 변화
+통계학		빅데이터
+
+표본조사	전수조사
+   질		   양
+인과관계	상관관계
+사전처리	사후처리
+
+
+매출액     영업사원수
+100	        1
+200		2
+300		3
+400		4
+
+y = 100 * x + b = 0
+
+통계학 -> 데이터마이닝 -> 머신러닝 -> 딥러닝
+* 기초 통계학
+1) 통계학 - 기술통계학
+	    추리통계학		- 모수 통계학   :: 모집단의 정규분포가 가정
+				- 비모수 통계학 :: 가정이나 자료의 특정속성 등 필요없음 
+
+2) 통계학의 자료 - 질적변수 - 명목, 서열
+		   양적변수 - 등간, 비율(연봉, 일급, 주급, 시급)
+
+3) 대표값의 이해 - 3가지의 대표값(최빈값, 중앙값, 평균 :: 산술, 기하, 조화)
+  분산
+
+* ADsP의 출제문제 혹은 빅분기의 출제문제
+예제) 다음 중 대표값이 아닌 것은?
+
+(1) 최빈값 
+(2) 중앙값
+(3) 평균값
+(4) 분산  * 정답
+
+4) 평균, 분산, 표준편차
+
+
+SPSS -> SAS -> R -> Python
+
+-- 긁어오기
+F12 -> F1 -> Preferences -> Disable Javascript
+
+R -> rstudio
+
+python  <-- C나 JAVA를 썼던 개발자
+	   	:: Pycharm
+	<-- 데이터 분석가
+		:: Jupyter notebook
+
+Python :: <-- 	Pycharm
+		jupyter notebook
+		jupyter lab
+		vscode
+
+python 3.9  <---> Anaconda version 
+
+python 3.7  <---> vscode
+
+
+jupyter 실행방법
+1) Anaconda Navigator
+
+2) jupyter notebook 아이콘 클릭 
+
+3) Anaconda Prompt 창을 통한 열기  
+c:
+d:
+~~~~
+jupyter notebook
+
+
+
+work-flow ::
+collect -> preprocessing -> modeling -> Evaluation/
+					Deployment
+
+
+DAP		SQLP	  ADP
+			  빅데이터분석기사 - 필/실
+DAsP		SQLD      ADsP
+데이터수집 -> 전처리 -> 모델링 -> 평가 및 전개
+
+
+
+언어를 만든 사람
+차이점 하나
+
+자료형
+01) 숫자형
+02) 문자형
+03) 리스트형
+04) 튜플형
+05) 딕셔너리
+06) 집합자료형 //
+07) 부울자료형(Bool) True// False
+
+if/ for / while :: 반복, 제어문
+
+if score >= 60:
+	print('합격')
+else:
+	print('불합격')
+
+def 사용자 정의 함수
+
+class
+
+class = def 확장
+module = class 확장
+package = module 확장
+library = package 확장
+
