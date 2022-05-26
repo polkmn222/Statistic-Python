@@ -56,3 +56,23 @@ b<-6:8  # c(6, 7, 8)
 ma1<-matrix(c(a,b),c(2,2))
 ma1[1,2]
 ma1[,3]
+
+# 1차원 Scalar, vector, factor
+
+# ex ) 1차원
+a<-1
+a
+# ex) vector
+b<-c(1, 2, 3)
+b[3]
+
+# 2차원 matrix, dataframe
+
+text<-matrix(1:12,c(4,3))
+text
+
+# 2차원 이상 array
+
+c(1,2,3,4,5,)
+1:5
+array(1:24,c(3,4,2))

@@ -1,6 +1,6 @@
 # Statistic & PYTHON   
 정규수업   
-실행프로그램 : Jupyter notebook    
+실행프로그램 : Jupyter notebook(Anaconda3)    
    
 ### 0524   
 - 빅데이터 정의, 출현 및 배경, 3가지 구성요소   
@@ -16,6 +16,17 @@
 - 인덱싱, 슬라이싱   
 - 문자열 덧셈, 곱셈   
 - numpy 기본   
+- R 기본, 차원   
+    
+### 0526
+- 분산도, 조건부확률, 확률변수 및 분포
+- cold start
+- 주피터 경로 설정
+- list 관련 함수
+- ndarray (arange, zeros, ones)
+- import pandas
+
+
 
    
    
