@@ -26,6 +26,10 @@
 - ndarray (arange, zeros, ones)
 - import pandas
 
+### 0527
+- 통계 chap 1 ~ 8 정리
+- basic pandas(english)
+- numpy
 
 
    
