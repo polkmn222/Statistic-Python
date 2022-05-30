@@ -31,6 +31,10 @@
 - basic pandas(english)
 - numpy
 
+### 0530
+- 통계 chap 1 ~ 8, 10 정리
+- Boolean_numpy, basic_pandas
+- Boolean_Pandas
 
    
    
