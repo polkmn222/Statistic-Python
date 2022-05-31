@@ -36,7 +36,11 @@
 - Boolean_numpy, basic_pandas
 - Boolean_Pandas
 
-   
+### 0531
+* 통계 chap 10 ~ 14
+* dictionary
+* numpy-sort   
+* Pandas_index
    
  
 
