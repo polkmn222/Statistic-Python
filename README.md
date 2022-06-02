@@ -42,7 +42,12 @@
 * numpy-sort   
 * Pandas_index
    
- 
+### 0602
+* 정렬, Aggreagation 함수, GroupBy 적용
+* fillna()로 결측값 데이터 대체
+* apply lambda 식으로 데이터 가공
+* if문, 비교연산자
+* Pandas Intermediate
 
     
 
