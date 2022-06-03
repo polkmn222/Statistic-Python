@@ -1,0 +1,38 @@
+데이터 분석과정 요약
+
+
+* 데이터를 수집
+
+* 데이터를 전처리
+
+0) isna() 결측치 확인
+1) fillna() <-- 결측치 데이터
+   :: 	Age <-- 평균값
+	Cabin <-- 'N'
+	Embarked <-- 'N'
+
+2) 문자 -> 숫자 :: Lable_Encoding
+		   One_hot_Encoding
+   숫자 -> 기준을 일률적으로 맞춘다 - Z-scoring
+				    - min-max scaling
+				    - log scaling :: y
+
+			y값
+* 데이터 모델링 - (1) 명목형 :: 분류(Classification) - Classifier
+				의사결정나무, 랜덤포레스트, 부스팅계열 :: AdaBoosting
+									  GradientBoosting
+		  (2) 연속형 :: 회기(Regression)     - Regressor
+
+* 모델링 평가 - 분류 :: 오분류표 == 혼동행렬 == confusion matrix
+
+		회기 :: (실제값 - 예측값)^2 / 자료의 개수 => MSE
+							    RMSE
+							     MAE -> MAPE :: self_study
+
+
+* 위의 알고리즘들을 최적화 함 :: (초매개변수 최적화 :: Hyper Parameter Tuning)
+				 Manual Search
+				 Grid Search
+				 Random Search
+
+* 2개 정도의 가장 성능이 좋은 알고리즘을 채택...

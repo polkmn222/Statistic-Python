@@ -49,6 +49,11 @@
 * if문, 비교연산자
 * Pandas Intermediate
 
+### 0603
+* iris_ML
+* 데이터수집 -> 데이터 전처리 -> 데이터 모델링 -> 데이터 평가
+* 데이터를 분할해야 하는데 그 이유는 overfitting 방지
+* K-fold
     
 
    
