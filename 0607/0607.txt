@@ -1,0 +1,15 @@
+## 데이터 분석시 작업순서
+
+# 1번 데이터 로딩 - pd.read_csv('path')
+# 2번 데이터 정보확인 - df.info(), df.describe()  :: y=target=label - 범주형(명목형) vs 연속형(비율)
+# 3번 데이터 결측값확인 - df.isna().sum()
+# 4번 데이터 결측값을 대체 - df.fillna(inplace=True)
+# 5번 데이터 전처리 --> 문자 -> 숫자
+			숫자 -> 피처스케일링
+# 6번 train_test_split을 적용 :: Data 분할 X_train, X_test, y_train, y_test
+   6-1번 불안하면, validation
+# 7번 사용할 알고리즘을 선정 -  분류
+				회기
+# 8번 정해진 알고리즘에 따라 평가지표가 나뉨 - 혼동행렬 및 accuracy_score
+					     - 회귀 - MSE, RMSE, MSLE, MAE
+# 9번 알고리즘 최적화 <- 매뉴얼서치, 그리드서치, 랜덤서치		
