@@ -1,0 +1,36 @@
+데이터 분석과정
+
+#1
+데이터 로딩
+#2
+데이터 결측치 확인
+#3
+데이터 결측치 대체(imputation)
+#4
+데이터 전처리 :: 문자 -> 숫자
+                 fit, transforme
+                 1) Label
+                 2) One-Hot
+#5
+데이터 피처 스케일링 :: 
+	1) min-max scaling
+	2) Z-scoring
+	3) log scaling
+#6
+데이터 분할 :: train_test_split
+               default = 0.25
+#7
+데이터 모델링 :: 분류 - fit, predict
+                 회귀 - fit, predict
+
+
+#8
+모델링 평가 :: accuracy 
+               향 후 7가지 지표
+               오분류표
+               혼동행렬
+               (Confusion Matrix)
+
+# 9 
+모델링 최적화 시도 :: 
+                     GridSearchCV

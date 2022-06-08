@@ -61,5 +61,12 @@
 * 불균형데이터
 * 데이터 전처리
 * 타이타닉 분석 예제   
-    
+
+### 0608
+* 데이터작업순서 및 진도
+* 데이터 인코딩
+1) 레이블 인코딩(Lable Encoding)
+2) 원핫 인코딩(One-Hot Encoding)
+* GridSearchCV
+* titanic-Grid_Search    
    
