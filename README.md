@@ -69,4 +69,8 @@
 2) 원핫 인코딩(One-Hot Encoding)
 * GridSearchCV
 * titanic-Grid_Search    
-   
+
+### 0609
+* Human Activity Recog
+* titanic gridsearch
+* 컬럼명 전처리   
