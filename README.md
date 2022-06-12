@@ -74,3 +74,7 @@
 * Human Activity Recog
 * titanic gridsearch
 * 컬럼명 전처리   
+
+### 0610
+* 스마트폰에 따른 사람행동분류
+* 피마_인디언_당뇨 사례
