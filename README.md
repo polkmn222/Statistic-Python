@@ -1,6 +1,12 @@
 # Statistic & PYTHON   
 정규수업   
 실행프로그램 : Jupyter notebook(Anaconda3)    
+    
+playground tensorflow    
+
+playground tensorflow cheat sheet    
+playground tensorflow answer    
+      
    
 ### 0524   
 - 빅데이터 정의, 출현 및 배경, 3가지 구성요소   
@@ -90,3 +96,6 @@
 1) 피마_인디언_당뇨 사례
 2) 3회차_빅분기_데이터분석_풀이
 * 2회차 빅분기 기출문제
+
+### 0615
+* 2회차 작업형 2유형
