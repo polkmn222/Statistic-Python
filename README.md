@@ -99,3 +99,10 @@ playground tensorflow answer
 
 ### 0615
 * 2회차 작업형 2유형
+
+### 0616
+* 보스턴 집값예측 회귀 분석
+
+### 0620
+* 보스턴 집값예측 회귀 트리
+* Bike_sharing
