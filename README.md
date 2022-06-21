@@ -106,3 +106,9 @@ playground tensorflow answer
 ### 0620
 * 보스턴 집값예측 회귀 트리
 * Bike_sharing
+
+### 0621
+* google colab
+* numpy 복습
+* world-cup
+* power bi
