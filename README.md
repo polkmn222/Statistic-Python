@@ -112,3 +112,7 @@ playground tensorflow answer
 * numpy 복습
 * world-cup
 * power bi
+
+### 0622
+* 대한민국 체력장
+
