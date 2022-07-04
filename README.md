@@ -118,3 +118,6 @@ playground tensorflow answer
 
 ### 0627
 * 크롤링
+
+### 0704
+* 파이썬 라이브러리를 활용한 크롤링
